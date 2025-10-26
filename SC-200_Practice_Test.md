@@ -1,4 +1,4 @@
-# SC-200 Practice Test - ExamTopics Style
+# SC-200 Practice Test
 ## Microsoft Security Operations Analyst - 30 Questions
 
 **Last Updated:** October 2025
@@ -10,7 +10,7 @@
 
 ## ⚠️ Important Note
 
-This practice test follows the **ExamTopics format** with:
+This practice test follows with:
 - ✅ Real exam-style scenarios
 - ✅ Multiple choice, multiple select, drag-drop scenarios
 - ✅ Detailed explanations for EVERY answer
